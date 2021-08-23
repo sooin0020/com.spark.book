@@ -1,7 +1,7 @@
 package com.spark.book.springboot.web.dto;
 
 import org.assertj.core.api.*;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 
 public class HelloResponseDtoTest {
